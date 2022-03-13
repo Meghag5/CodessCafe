@@ -1,6 +1,6 @@
 .bgimage{
-    width: 110%;
-    height: 800px;
+    width: 120%;
+    height: 750px;
     margin-right: 0;
 }
 
@@ -8,7 +8,7 @@
     float: left;
     width: 45%;
     padding: 10px;
-    margin-left: 30px;
+    
   }
   
   /* Clear floats after image containers */
@@ -16,4 +16,9 @@
     content: "";
     clear: both;
     display: table;
+}
+
+.firstpara{
+    margin-top: 30%;
+    text-align: center;
 }
